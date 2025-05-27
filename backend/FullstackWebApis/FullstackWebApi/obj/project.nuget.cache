@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pIE4ymYc8mw=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\barha\\OneDrive\\Desktop\\FullstackDotnet\\backend\\FullstackWebApis\\FullstackWebApi\\FullstackWebApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'",
+      "projectPath": "C:\\Users\\barha\\OneDrive\\Desktop\\FullstackDotnet\\backend\\FullstackWebApis\\FullstackWebApi\\FullstackWebApi.csproj",
+      "filePath": "C:\\Users\\barha\\OneDrive\\Desktop\\FullstackDotnet\\backend\\FullstackWebApis\\FullstackWebApi\\FullstackWebApi.csproj",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": []
+    }
+  ]
+}
